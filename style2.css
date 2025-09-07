@@ -97,7 +97,7 @@ margin-top: 133px;
    width: 100%;
    height: auto;
 }
-incontnr-3rp p {
+.incontnr-3rp p {
    height: 70%;
 }
 
@@ -134,4 +134,8 @@ incontnr-3rp p {
 }
 .innercont-7ulmain ul li{
    width: 200px;
+}
+.insontnr-2r,
+.insontnr-4r {
+    position: relative;
 }

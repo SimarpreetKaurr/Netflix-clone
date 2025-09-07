@@ -202,7 +202,7 @@ html {
     line-height: 1.875rem;
 }
 
-.head-inbox-2p2 p {}
+/* .head-inbox-2p2 p {} */
 
 .head-inbox-2f {
     width: 586px;
@@ -379,18 +379,21 @@ html {
 }
 
 .incontnr-3r {
-    width: 572.33px;
-    height: 190px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
 }
 
-.incontnr-3r h1 {
-    width: 574px;
-    height: 135.2px;
+.incontnr-3rh h1 {
+    text-align: left;
+    margin-bottom: 20px;
 }
 
 .incontnr-3rp p {
-    height: 60px;
-    margin-top: 15px;
+    text-align: left;
+    line-height: 1.5;
 }
 
 
@@ -416,15 +419,32 @@ html {
 
 
 /* CONTAINER 5 */
-.incontnr-5 {
-    height: 430.99px;
-    width: 84%;
+.maincontnr-5 {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 50px 0;
+}
+.incontnr-5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    gap: 40px;
 }
 .incontnr-5l {
-    margin-right: 47px;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 0;
+}
+
+.incontnr-5l img {
+    max-width: 100%;
+    height: auto;
 }
 
 
@@ -561,16 +581,3 @@ html {
     padding: 10px 0px;
     color: #B3B3B3;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

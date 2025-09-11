@@ -13,7 +13,6 @@ A responsive Netflix-style landing page built with **HTML, CSS, and JavaScript**
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 
 ---
 
@@ -21,14 +20,7 @@ A responsive Netflix-style landing page built with **HTML, CSS, and JavaScript**
 
 <img width="1886" height="840" alt="image" src="https://github.com/user-attachments/assets/f40394b6-6588-4476-991f-052c2782e078" />
 <img width="1886" height="840" alt="image" src="https://github.com/user-attachments/assets/f312ad33-e8b3-4906-8818-7e58de12919e" />
-<img width="1886" height="840" alt="image" src="https://github.com/user-attachments/assets/05f06188-92f1-4e71-8824-ad855d5161d3" />
-<img width="1886" height="840" alt="image" src="https://github.com/user-attachments/assets/3a4f6a06-3ac3-4a51-b2e8-124238580364" />
 <img width="1886" height="396" alt="image" src="https://github.com/user-attachments/assets/70402d6c-8f66-4a23-9454-07f0fbfaed62" />
-
-
-
-
-
 
 **Live Preview:** Open `index.html` in your browser.
 
@@ -87,9 +79,6 @@ A responsive Netflix-style landing page built with **HTML, CSS, and JavaScript**
 - Add smooth scroll animations and hover effects.
 - Optimize videos for faster loading and lazy-load images.
 - Add dark/light mode toggle.
-
-## License
- This project is open-source and available under the MIT License.
 
 Author: Simarpreet Kaur
 
